@@ -1,0 +1,17 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files (in case you run Python scripts)
+__pycache__/
+*.pyc
+
+# Virtual environment folders (if you ever use one)
+venv/
+env/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Secrets / environment variables
+.env
